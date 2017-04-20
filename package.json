@@ -1,0 +1,12 @@
+{
+  "name": "battle-shrimp",
+  "version": "1.0.0",
+  "description": "A dumb meme simulation.",
+  "scripts":{
+    "start":"node ./src/index.js",
+    "build":"webpack"
+  },
+  "main": "",
+  "author": "Isaac Helbling",
+  "license": "MIT"
+}

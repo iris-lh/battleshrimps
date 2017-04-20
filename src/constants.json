@@ -1,0 +1,9 @@
+{
+  "baseDamageReduction":1.1,
+  "damageReductionPerPoint":1.06,
+  "baseDodge":1.05,
+  "dodgePerPoint":1.06,
+  "specialMultiplier":2,
+  "favoredTacticTilt":2,
+  "speedBracket":[0,5,15]
+}
